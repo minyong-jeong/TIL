@@ -45,4 +45,3 @@
     >>> list
     ['pineapple', 'grape', 'melon', 'mango']
     ```
-
