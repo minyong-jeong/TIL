@@ -6,7 +6,7 @@ python의 paramiko와 scp라이브러리를 사용하여 파일전송이 가능�
 
 scp 전송을 위해 사용될 paramiko, scp 라이브러리를 설치합니다.
 
-```python
+```bash
 pip install paramiko
 pip install scp
 ```
