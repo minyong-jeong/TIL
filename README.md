@@ -11,6 +11,7 @@ Today I Learned
 - [md5 checksum 구하는 방법](./python/md5_checksum_구하는_방법.md)
 - [scp를 이용한 파일전송](./python/scp를_이용한_파일전송.md)
 - [wget 사용법](./python/wget_사용법.md)
+- [flask 파일 업로드](./python/flask_파일_업로드.md)
 
 ## 2. LINUX
 
