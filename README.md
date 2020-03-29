@@ -12,6 +12,7 @@ Today I Learned
 - [scp를 이용한 파일전송](./python/scp를_이용한_파일전송.md)
 - [wget 사용법](./python/wget_사용법.md)
 - [flask 파일 업로드](./python/flask_파일_업로드.md)
+- [shell 명령어 실행](./python/shell_명령어_실행.md)
 
 ## 2. LINUX
 
