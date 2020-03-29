@@ -24,6 +24,7 @@ Today I Learned
 - [ulimit 명령어](./linux/ulimit_명령어.md)
 - [vi 텍스트 변경](./linux/vi_텍스트_변경.md)
 - [사용자 그룹 추가 및 삭제](./linux/사용자_그룹_추가_및_삭제.md)
+- [find 명령어](./linux/find_명령어.md)
 
 ## 3. ETC
 
