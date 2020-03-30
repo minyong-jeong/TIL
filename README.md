@@ -13,6 +13,7 @@ Today I Learned
 - [wget 사용법](./python/wget_사용법.md)
 - [flask 파일 업로드](./python/flask_파일_업로드.md)
 - [shell 명령어 실행](./python/shell_명령어_실행.md)
+- [REST API 호출](./python/REST_API_호출.md)
 
 ## 2. LINUX
 
