@@ -15,6 +15,7 @@ Today I Learned
 - [shell 명령어 실행](./python/shell_명령어_실행.md)
 - [REST API 호출](./python/REST_API_호출.md)
 - [json에서 dictionary로 변환하는 방법](./python/json에서_dictionary로_변환하는_방법.md)
+- [text hash 값 구하기](./python/text_hash_값_구하기.md)
 
 ## 2. LINUX
 
