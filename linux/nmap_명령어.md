@@ -1,4 +1,4 @@
-# nmap
+# nmap 명령어
 
 nmap은 호스트나 네트워크를 스캐닝 할 때 사용하는 port scanning tool입니다.
 
