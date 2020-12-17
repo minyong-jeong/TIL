@@ -41,7 +41,7 @@ useEffect는 리액트 컴포넌트가 렌더링될때마다 특정 작업을 �
 React class의 componentDidMount, componentDidUpdate, componentWillUnmount등을 하나의 API로 합친 형태입니다.
 
 ```javascript
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 
 const example = () => {
   const [value, setValue] = useState(0);
