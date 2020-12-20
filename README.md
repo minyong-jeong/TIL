@@ -33,6 +33,7 @@ Today I Learned
 
 - [nmap 명령어](./network/nmap_명령어.md)
 - [SSH 포트포워딩](./network/SSH_포트포워딩.md)
+- [HTTP GET과 POST](./network/HTTP_GET과_POST.md)
 
 ## 4.REACT
 
