@@ -9,6 +9,7 @@ Today I Learned
 ## 1. Algorithm
 
 - [Bubble Sort (버블정렬)](./algorithm/sort/bubble_sort.md)
+- [Selection Sort (선택정렬)](./algorithm/sort/selection_sort.md)
 
 ## 2. Python
 
