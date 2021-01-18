@@ -1,5 +1,13 @@
 # TIL 📚
 
+[![author](https://img.shields.io/badge/Author-minyong--jeong-blue?style=flat-square)](https://minyong-jeong.github.io/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminyong-jeong%2FTIL&count_bg=%234E7FC0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![lisence](https://img.shields.io/github/license/minyong-jeong/TIL?style=flat-square)](https://github.com/minyong-jeong/TIL/blob/master/LICENSE)
+
+[![stars](https://img.shields.io/github/stars/minyong-jeong/TIL?style=flat-square&label=Star)](https://github.com/minyong-jeong/TIL/stargazers)
+[![forks](https://img.shields.io/github/forks/minyong-jeong/TIL?style=flat-square&label=Fork)](https://github.com/minyong-jeong/TIL/network/members)
+[![followers](https://img.shields.io/github/followers/minyong-jeong?style=flat-square&label=Follow)](https://github.com/minyong-jeong?tab=followers)
+
 Today I Learned
 
 공부한 내용들을 글로 정리한 Repository입니다.
