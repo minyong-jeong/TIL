@@ -38,8 +38,11 @@ Today I Learned
 - [사용자 그룹 추가 및 삭제](./linux/사용자_그룹_추가_및_삭제.md)
 - [압축 명령어](./linux/압축_명령어.md)
 - [우분투 인증서 설치](./linux/우분투_인증서_설치.md)
+- [du 명령어](./linux/du_명령어.md)
 - [find 명령어](./linux/find_명령어.md)
 - [logrotate](./linux/logrotate.md)
+- [scp 명령어](./linux/scp_명령어.md)
+- [sudo 패스워드 없이 사용](./linux/sudo_패스워드_없이_사용.md)
 - [TOP 명령어](./linux/TOP_명령어.md)
 - [ulimit 명령어](./linux/ulimit_명령어.md)
 - [vi 텍스트 변경](./linux/vi_텍스트_변경.md)
@@ -60,9 +63,11 @@ Today I Learned
 
 ## 7. ETC
 
+- [덤프파일 생성방법.md](./etc/덤프파일_생성방법.md)
 - [메소드 체이닝](./etc/메소드_체이닝.md)
 - [자가 서명 인증서 생성](./etc/자가_서명_인증서_생성.md)
 - [정규표현식](./etc/정규표현식.md)
 - [콘솔 창 없이 배치파일 실행](./etc/콘솔_창_없이_배치파일_실행.md)
+- [트러블 슈팅 툴](./etc/트러블_슈팅_툴.md)
 - [TDD](./etc/TDD.md)
 - [WEB 서버와 WAS](./etc/WEB_서버와_WAS.md)
