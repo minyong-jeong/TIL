@@ -14,14 +14,14 @@ Today I Learned
 
 해당 내용들은 [블로그](https://my-devblog.tistory.com)에도 포스팅하였습니다.
 
-## 1. Algorithm
+## 1️⃣ Algorithm
 
 - [Bubble Sort (버블정렬)](./algorithm/sort/bubble_sort.md)
 - [Heap Sort (힙정렬)](./algorithm/sort/heap_sort.md)
 - [Insertion Sort (삽입정렬)](./algorithm/sort/insertion_sort.md)
 - [Selection Sort (선택정렬)](./algorithm/sort/selection_sort.md)
 
-## 2. Python
+## 2️⃣ Python
 
 - [flask 파일 업로드](./python/flask_파일_업로드.md)
 - [json에서 dictionary로 변환하는 방법](./python/json에서_dictionary로_변환하는_방법.md)
@@ -32,7 +32,7 @@ Today I Learned
 - [text hash 값 구하기](./python/text_hash_값_구하기.md)
 - [wget 사용법](./python/wget_사용법.md)
 
-## 3. Linux
+## 3️⃣ Linux
 
 - [노트북 덮개 영향 없애기](./linux/리눅스_노트북_덮개_영향_없애기.md)
 - [사용자 그룹 추가 및 삭제](./linux/사용자_그룹_추가_및_삭제.md)
@@ -47,21 +47,21 @@ Today I Learned
 - [ulimit 명령어](./linux/ulimit_명령어.md)
 - [vi 텍스트 변경](./linux/vi_텍스트_변경.md)
 
-## 4. Network
+## 4️⃣ Network
 
 - [nmap 명령어](./network/nmap_명령어.md)
 - [SSH 포트포워딩](./network/SSH_포트포워딩.md)
 - [HTTP GET과 POST](./network/HTTP_GET과_POST.md)
 
-## 5. Container
+## 5️⃣ Container
 
 - [도커 명령어](./container/도커_명령어.md)
 
-## 6.React
+## 6️⃣ React
 
 - [Hook](./react/Hook.md)
 
-## 7. ETC
+## 7️⃣ ETC
 
 - [덤프파일 생성방법.md](./etc/덤프파일_생성방법.md)
 - [메소드 체이닝](./etc/메소드_체이닝.md)
