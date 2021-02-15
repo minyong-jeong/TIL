@@ -56,6 +56,7 @@ Today I Learned
 ## 5️⃣ Container
 
 - [도커 명령어](./container/도커_명령어.md)
+- [쿠버네티스 명령어](./container/쿠버네티스_명령어.md)
 
 ## 6️⃣ React
 
