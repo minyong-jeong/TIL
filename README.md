@@ -1,7 +1,7 @@
 # TIL 📚
 
 [![author](https://img.shields.io/badge/Author-minyong--jeong-blue?style=flat-square)](https://github.com/minyong-jeong)
-[![HitCount](http://hits.dwyl.com/minyong-jeong/TIL.svg)](http://hits.dwyl.com/minyong-jeong/TIL)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminyong-jeong%2FTIL&count_bg=%233B72D9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 [![lisence](https://img.shields.io/github/license/minyong-jeong/TIL?style=flat-square)](https://github.com/minyong-jeong/TIL/blob/master/LICENSE)
 
 [![stars](https://img.shields.io/github/stars/minyong-jeong/TIL?style=flat-square&label=Star)](https://github.com/minyong-jeong/TIL/stargazers)
